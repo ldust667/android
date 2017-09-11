@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <string-array name="options">
+        <item>View Gallery</item>
+        <item>Add a Picture to the Gallery</item>
+    </string-array>
+
+
+</resources>
